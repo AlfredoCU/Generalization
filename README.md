@@ -1,0 +1,2 @@
+# Generalization
+Demostrando la generalización.
